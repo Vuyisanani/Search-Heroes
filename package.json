@@ -16,7 +16,8 @@
     "url": "https://github.com/Vuyisanani/Search-Heroes/issues"
   },
   "homepage": "https://github.com/Vuyisanani/Search-Heroes#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "@angular/cli": "^7.3.9"
   }
 }
